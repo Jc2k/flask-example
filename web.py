@@ -1,3 +1,5 @@
+# Simple example
+
 import os
 from brokenegg import get_important_message
 
